@@ -1,8 +1,10 @@
 ![Nebula Logo](https://user-images.githubusercontent.com/60283532/157185421-b9b5f191-e006-4f77-bf25-f4bd37ea6135.png)
+
 Nebula Them Suite for Gnome & Budgie DE. It contains Icon theme, GTK theme, Gnome Shell and Plank theme. It's recommended to use Plank with this theme.
 Tested on Zorin OS Pro with Gnome 3.38
 
 The icon theme is based on Papirus which can be found here: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/
+
 The GTK theme is a mod based on Graphite gtk theme which can be found here: https://github.com/vinceliuice/Graphite-gtk-theme
 
 Video
